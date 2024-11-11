@@ -1,4 +1,4 @@
-# SENG402 Toward Smarter Project Management Tools
+# Toward Smarter Project Management Tools
 
 This project is an assessment tool for checking the quality of user stories and acceptance criteria. It uses a rules-based NLP approach to check user stories and acceptance criteria against a set of quality criteria.
 
